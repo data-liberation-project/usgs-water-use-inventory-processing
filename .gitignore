@@ -1,5 +1,6 @@
 # Data
-data/raw/sites
+data/raw/sites/
+!data/raw/sites/.keep
 data/outputs/combined/
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks
