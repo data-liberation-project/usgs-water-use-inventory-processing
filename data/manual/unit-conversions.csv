@@ -1,0 +1,10 @@
+unit,desc,coef_m3,coef_acre_feet
+acre-inch,acre-inch,102.79015313,0.0833333333
+acre-feet,acre-feet,1233.4818375,1.0
+Tacre-feet,thousand acre-feet,1233481.8375,1000.0
+gal,gallons,0.0037854118,0.0000030689
+Tgal,thousand gallons,3.785411784,0.0030688833
+Mgal,million gallons,3785.411784,3.0688832772
+bbl,barrels (42 gallons),0.1589872949,0.0001288931
+cf,cubic feet,0.0283168466,0.0000229568
+Tcf,thousand cubic feet,28.316846592,0.0229568411

@@ -1,0 +1,266 @@
+variable,num_distinct,example
+accuracy_cd,5,N
+cn_cap_sg,7,2
+cn_cap_va,961,60.0
+cn_cd,5,PI
+cn_cn,55,slawrenc
+cn_cr,1214,02-JUL-13 03.34.10.000000 PM
+cn_md,1221,02-JUL-13 03.34.10.000000 PM
+cn_mn,55,slawrenc
+cn_nm,5,Pipe
+cn_qnty_cd,6,WD
+cn_qnty_cm_tx,5937,2010 Public Supply
+cn_qnty_cn,54,slawrenc
+cn_qnty_cr,1635,02-JUL-13 03.35.01.000000 PM
+cn_qnty_mo_depr_fg,1,N
+cn_qnty_mo_nat_water_use_cd,14,WS
+cn_qnty_mo_va1,122416,1.83
+cn_qnty_mo_va10,131190,2.417
+cn_qnty_mo_va11,122026,2.223
+cn_qnty_mo_va12,123083,2.153
+cn_qnty_mo_va2,120667,1.79
+cn_qnty_mo_va3,124176,1.81
+cn_qnty_mo_va4,125238,2.01
+cn_qnty_mo_va5,134980,2.35
+cn_qnty_mo_va6,136356,2.76
+cn_qnty_mo_va7,142700,2.68
+cn_qnty_mo_va8,141894,2.71
+cn_qnty_mo_va9,133920,2.647
+cn_qnty_nm,6,Withdrawal
+cn_qnty_party_alias_nm,76,GA009
+cn_qnty_pf_fg,2,Y
+cn_qnty_pub_dt,2,12/31/14 12:00
+cn_qnty_yr,84,2008
+cn_qnty_yr_cn,54,slawrenc
+cn_qnty_yr_cr,1635,07/02/13 03:35
+cn_qnty_yr_depr_fg,2,N
+cn_qnty_yr_fg,2,N
+cn_qnty_yr_md,1643,17-JUL-13 10.50.35.000000 AM
+cn_qnty_yr_mn,54,slawrenc
+cn_qnty_yr_nat_water_use_cd,14,WS
+cn_qnty_yr_va,211970,2.282
+data_aging_cd,3,W
+foia_sheet,51,Alabama
+from_accs_cd,2,3
+from_addr_country_nm,5,UNITED STATES OF AMERICA
+from_addr_line_1_tx,1856,1650 Nixon Rd
+from_addr_line_2_tx,5,WELL (SHALLOW--NEXT TO RIVER)
+from_addr_post_cd,14,CO
+from_agency_cd,32,USGS
+from_agency_use_cd,7,O
+from_alt_acy_va,105,0.1
+from_alt_datum_cd,3,NGVD29
+from_alt_meth_cd,12,U
+from_alt_va,5589,557.9
+from_aqfr_cd,693,400PCMB
+from_aqfr_type_cd,5,C
+from_basin_cd,45,21
+from_city_nm,1278,Lamar
+from_construction_dt,4860,19530310
+from_contact_party_alias_nm,1,BROOMFIELD CITY AND COUNTY OF 3
+from_coord_acy_cd,10,M
+from_coord_datum_cd,3,NAD83
+from_coord_meth_cd,10,D
+from_country_cd,1,US
+from_county_cd,293,215
+from_county_nm,1811,Muscogee County
+from_data_types_cd,104,NNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+from_dec_lat_va,5642,34.233237590000002
+from_dec_long_va,5607,-114.18564259999999
+from_deprecated_fg,1,N
+from_depth_src_cd,9,D
+from_district_cd,47,13
+from_drain_area_va,6,284.0
+from_gw_file_cd,72,YYYYNYNNNNNNNNNNNNNN
+from_hole_depth_va,1752,388.0
+from_huc_cd,11423,3130003
+from_huc_nm,10487,Middle Chattahoochee-Walter F
+from_instream_use_cd,3,UN
+from_instream_use_nm,3,Unspecified
+from_instruments_cd,11,NNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+from_inventory_dt,2168,19920827
+from_land_net_ds,8906,NENENWS 32T  21SR 04E
+from_lat_va,5024,341359.6
+from_local_time_fg,2,Y
+from_long_va,4967,1141105.5
+from_map_nm,6188,SYLACAUGA WEST
+from_map_scale_fc,16,24000
+from_mcd_cd,3137,92193
+from_mcd_nm,2805,Mingus Mountain CCD
+from_naics_cd,314,221310
+from_naics_ds,287,Water Supply and Irrigation Systems
+from_nat_aqfr_cd,49,N400PDMBRX
+from_nat_aqfr_nm,49,Piedmont and Blue Ridge crystalline-rock aquifers
+from_nat_water_use_cd,12,WS
+from_party_alias_nm,33,GA009
+from_permit_cd,9,ALLC
+from_permit_tx,36086,106-1225-05
+from_project_no,486,454708200
+from_reliability_cd,4,U
+from_sic_cd,312,4941
+from_site_cn,165,slawrenc
+from_site_contact_alias_nm,357,MR. ROBERT BUDDY WILSON
+from_site_contact_cn,18,acgill
+from_site_contact_cr,145,06-NOV-13 10.10.22.000000 PM
+from_site_contact_end_dt,1,20111212
+from_site_contact_mn,20,acgill
+from_site_contact_nu,6,1
+from_site_contact_start_dt,129,2013
+from_site_cr,22160,24-APR-12 12.26.14.000000 PM
+from_site_md,27073,24-APR-12 12.26.14.000000 PM
+from_site_mn,120,slawrenc
+from_site_no,9041,341400114110601
+from_site_owner_alias_nm,23157,SMITHS WATER AUTHORITY
+from_site_owner_cd,7,CP
+from_site_owner_cn,122,slawrenc
+from_site_owner_cr,7686,24-APR-12 04.11.14.000000 PM
+from_site_owner_end_dt,43,19911227
+from_site_owner_md,2373,24-APR-12 04.11.14.000000 PM
+from_site_owner_mn,123,slawrenc
+from_site_owner_nu,5,1
+from_site_owner_start_dt,4186,19540105
+from_site_rmks_tx,14680,2010 PUBLIC SUPPLY
+from_site_tp_cd,17,FA-DV
+from_site_tp_ln,17,Diversion
+from_site_tp_nm,17,Diversion
+from_site_use_1_cd,14,W
+from_site_use_2_cd,10,O
+from_site_use_3_cd,4,P
+from_site_web_cd,4,Y
+from_state_cd,50,13
+from_state_nm,50,Georgia
+from_station_nm,9041,B-10-19 01DCA3
+from_surface_water_cd,10,LK
+from_surface_water_nm,2381,LAKE OLIVER
+from_topo_cd,16,V
+from_tz_cd,7,EST
+from_water_use_1_cd,18,P
+from_water_use_2_cd,13,H
+from_water_use_3_cd,8,I
+from_well_depth_va,2071,388.0
+from_wu_site_cm_cn,25,acollier
+from_wu_site_cm_cr,254,14-AUG-18 07.09.18.000000 PM
+from_wu_site_cm_md,260,14-AUG-18 07.09.18.000000 PM
+from_wu_site_cm_mn,25,acollier
+from_wu_site_cm_tx,4071,"Added 8/14/18, ALC."
+from_wu_site_cn,56,slawrenc
+from_wu_site_cr,1103,24-APR-12 04.01.16.000000 PM
+from_wu_site_md,1077,05-NOV-13 03.51.57.000000 PM
+from_wu_site_mn,56,slawrenc
+from_zip_cd,94,30906
+ir_meth_cd,2,UN
+ir_meth_nm,2,Unspecified
+meas_meth_cd,12,MTUN
+meas_meth_nm,12,Metered Type Unknown
+mo_unit_abbrv_tx,13,Mgal/d
+nat_water_use_cd,14,WS
+nat_water_use_nm,14,Water Supply
+salinity_cd,4,F
+salinity_nm,4,Fresh
+to_accs_cd,2,3
+to_addr_country_nm,4,UNITED STATES OF AMERICA
+to_addr_line_1_tx,314,1580 Columbia Nitrogen Dr
+to_addr_line_2_tx,7,PO Box 2002
+to_addr_post_cd,17,CO
+to_agency_cd,16,USGS
+to_agency_use_cd,4,O
+to_alt_acy_va,9,8.0
+to_alt_datum_cd,2,NAVD88
+to_alt_meth_cd,3,N
+to_alt_va,1462,3621.0
+to_aqfr_cd,11,300PLZC
+to_basin_cd,24,7
+to_city_nm,1240,Lamar
+to_construction_dt,57,19900101
+to_contact_party_alias_nm,1,BROOMFIELD CITY AND COUNTY OF 3
+to_coord_acy_cd,9,U
+to_coord_datum_cd,2,NAD83
+to_coord_meth_cd,7,U
+to_country_cd,1,US
+to_county_cd,298,81
+to_county_nm,1790,Lee County
+to_data_types_cd,12,NNNNNNNNNNNNNNNANNNNNNNNNNNNNN
+to_dec_lat_va,2611,38.020277780000001
+to_dec_long_va,2706,-105.4325
+to_deprecated_fg,1,N
+to_depth_src_cd,1,A
+to_district_cd,49,1
+to_gw_file_cd,4, Y
+to_hole_depth_va,1,430
+to_huc_cd,4382,3130002
+to_huc_nm,4166,Middle Chattahoochee-Lake Harding
+to_instream_use_cd,3,UN
+to_instream_use_nm,3,Unspecified
+to_instruments_cd,1,NNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+to_inventory_dt,99,20010901
+to_land_net_ds,568,SESES35 T43N  R03W  N
+to_lat_va,2521,380113
+to_local_time_fg,2,Y
+to_long_va,2640,1052557
+to_map_nm,1414,"SLUMGULLION PASS, CO"
+to_map_scale_fc,3,24000
+to_mcd_cd,1574,92109
+to_mcd_nm,1454,Lake City CCD
+to_naics_cd,311,221310
+to_naics_ds,279,Water Supply and Irrigation Systems
+to_nat_aqfr_cd,6,N500VLYRDG
+to_nat_aqfr_nm,6,Valley and Ridge aquifers
+to_nat_water_use_cd,11,WS
+to_party_alias_nm,16,USEPA
+to_permit_cd,8,EPWS
+to_permit_tx,30579,AL0000816
+to_project_no,32,SWUDS-PS
+to_reliability_cd,3,U
+to_sic_cd,278,4941
+to_site_cn,73,acgill
+to_site_contact_alias_nm,8,R.M. CLAYTON WPCP
+to_site_contact_cn,2,slawrenc
+to_site_contact_cr,4,13-AUG-13 05.00.54.000000 PM
+to_site_contact_mn,2,slawrenc
+to_site_contact_nu,1,1
+to_site_contact_start_dt,6,20100101
+to_site_cr,13596,16-SEP-15 01.43.36.000000 PM
+to_site_md,12350,07-MAR-19 01.33.45.000000 PM
+to_site_mn,89,psargent
+to_site_no,4517,904025910000001
+to_site_owner_alias_nm,21073,SMITHS WATER AUTHORITY
+to_site_owner_cd,7,WS
+to_site_owner_cn,46,slawrenc
+to_site_owner_cr,350,02-JUL-13 03.33.10.000000 PM
+to_site_owner_end_dt,11,1999
+to_site_owner_md,277,02-JUL-13 03.33.10.000000 PM
+to_site_owner_mn,45,slawrenc
+to_site_owner_nu,3,1
+to_site_owner_start_dt,321,2016
+to_site_rmks_tx,3804,GW&SW
+to_site_tp_cd,16,FA-WDS
+to_site_tp_ln,16,Water-distribution system
+to_site_tp_nm,16,Wtr distr
+to_site_use_1_cd,8,O
+to_site_use_2_cd,1,S
+to_site_use_3_cd,1,P
+to_site_web_cd,3,Y
+to_state_cd,50,1
+to_state_nm,50,Alabama
+to_station_nm,4517,YAVAPI  DOMESTIC AGGREGATE USERS
+to_surface_water_cd,5,ST
+to_surface_water_nm,433,SPRING CREEK
+to_topo_cd,5,C
+to_tz_cd,8,CST
+to_water_use_1_cd,12,P
+to_water_use_2_cd,5,E
+to_water_use_3_cd,2,S
+to_well_depth_va,1,100
+to_wu_site_cm_cn,15,psargent
+to_wu_site_cm_cr,75,07-MAR-17 02.21.43.000000 PM
+to_wu_site_cm_md,74,07-MAR-17 02.21.43.000000 PM
+to_wu_site_cm_mn,15,psargent
+to_wu_site_cm_tx,1298,Red River Basin To-Site
+to_wu_site_cn,56,slawrenc
+to_wu_site_cr,595,02-JUL-13 03.32.15.000000 PM
+to_wu_site_md,639,02-JUL-13 03.32.15.000000 PM
+to_wu_site_mn,56,slawrenc
+to_zip_cd,207,30901
+water_cd,8,SW
+water_nm,8,Surface Water
+yr_unit_abbrv_tx,10,Mgal/d

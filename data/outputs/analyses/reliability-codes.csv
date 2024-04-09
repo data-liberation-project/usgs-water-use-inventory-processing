@@ -1,0 +1,5 @@
+Code,from_reliability_cd,to_reliability_cd,Name,Description
+C,191842,41735,Checked,Data have been checked by the reporting agency.
+L,1350,0,Poor location,Location not accurate.
+M,19211,5090,Minimal,Minimal data.
+U,480179,554941,Unchecked,Unchecked data.

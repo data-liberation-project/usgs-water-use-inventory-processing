@@ -1,0 +1,6 @@
+[tool.ruff]
+extend-exclude = ["venv"]
+line-length = 88
+
+[tool.ruff.lint]
+select = [ "F", "E", "W", "I" ]
